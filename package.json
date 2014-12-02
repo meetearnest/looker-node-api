@@ -1,0 +1,36 @@
+{
+  "name": "looker-api",
+  "version": "0.0.1",
+  "description": "API Client for Looker",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-node spec"
+  },
+  "author": "Petar Vlahu <pvlahu@gotransverse.com>",
+  "license": "MIT",
+  "repository": "transverse/looker-api",
+  "keywords": [
+    "looker",
+    "rest",
+    "restful",
+    "api"
+  ],
+  "dependencies": {
+    "bluebird": "^2.3.11",
+    "bunyan": "^1.2.2",
+    "lodash": "^2.4.1"
+  },
+  "devDependencies": {
+    "jasmine": "^2.1.0",
+    "jasmine-core": "^2.1.2",
+    "jasmine-node": "^1.14.5"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "files": [
+    "LICENCE",
+    "index.js",
+    "lib/"
+  ]
+}
