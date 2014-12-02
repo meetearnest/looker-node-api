@@ -8,7 +8,7 @@
   },
   "author": "Petar Vlahu <pvlahu@gotransverse.com>",
   "license": "MIT",
-  "repository": "transverse/looker-api",
+  "repository": "transverse/looker-node-api",
   "keywords": [
     "looker",
     "rest",
